@@ -30,10 +30,12 @@
 =
 
 در صورتی که کارت گرافیک و سیستم قدرتمندی دارید فایل 
+
 Mpv.x64_SVPflowEdition.MK-JH_windows64(High-End PC)
 دانلود کنی
 
 و اگر سیستم معمولی دارید فایل
+
 Mpv.x64_SVPflowEdition.MK-JH_windows64(Low-End PC)
 رو دانلود کنید
 
