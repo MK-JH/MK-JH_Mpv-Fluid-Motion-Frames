@@ -1,6 +1,6 @@
 # Mpv-x64_SVPflowEdition-MK-JH
 سلام
- به پروه Mpv-x64_SVPflowEdition-MK-JH خوش آمدید
+ به پروژه Mpv-x64_SVPflowEdition-MK-JH خوش آمدید
 
 توضیحات:
 =
