@@ -5,6 +5,9 @@
 ارتباط با من:
 https://t.me/PersianPatchDeveloper
 
+عضویت در کانال اصلی فریم جنریشن:
+https://t.me/FSR3FrameGeneration
+
 توضیحات:
 =
 
