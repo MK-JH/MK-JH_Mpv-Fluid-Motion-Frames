@@ -5,6 +5,9 @@
 عضویت در کانال اصلی فریم جنریشن:
 https://t.me/FSR3FrameGeneration
 
+ارتباط با من:
+https://t.me/PersianPatchDeveloper
+
 توضیحات:
 =
 
