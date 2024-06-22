@@ -11,6 +11,7 @@ HI
 https://t.me/FSR3FG
 
 ارتباط با من:
+
 contact me:
 
 https://t.me/PersianPatchDeveloper
@@ -49,6 +50,7 @@ The necessary program training is available in the program training menu
 
 
 Pictures of the program environment:
+
 تصاویری از محیط برنامه:
 
 
