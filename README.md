@@ -3,10 +3,16 @@
 
  به پروژه MK-JH_Mpv Fluid Motion Frames خوش آمدید
 
+HI
+
+ Welcome to the MK-JH_Mpv Fluid Motion Frames project
+
 عضویت در کانال اصلی فریم جنریشن:
 https://t.me/FSR3FG
 
 ارتباط با من:
+contact me:
+
 https://t.me/PersianPatchDeveloper
 
 توضیحات:
@@ -25,7 +31,24 @@ https://t.me/PersianPatchDeveloper
 
 آموزش های لازم برنامه در منوی آموزش های برنامه موچوده
 
+Description:
+=
 
+This project is designed to execute video files with high frame rate in a completely smooth and smooth way with the help of frame generation in Windows and it brings you a completely different experience while watching the movie.
+
+Using this powerful media player, you can experience all your video files with the highest possible frame rate (based on the monitor's refresh rate).
+
+Also, by using 2 powerful technologies AMD FSR and AMD CAS and some different shaders used in this program, you can get the best image output even for low resolutions and enjoy watching the movie.
+
+Requires medium to high system
+
+How to install the program and use it:
+=
+
+The necessary program training is available in the program training menu
+
+
+Pictures of the program environment:
 تصاویری از محیط برنامه:
 
 
