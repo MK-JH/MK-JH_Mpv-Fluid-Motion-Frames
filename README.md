@@ -66,6 +66,4 @@ Pictures of the program environment:
 ![mpv_2024_07_17_12_45_50_963](https://github.com/user-attachments/assets/91d16ec7-4173-47d1-8d3f-ad6d704adbd2)
 ![mpv_2024_07_17_12_42_56_898](https://github.com/user-attachments/assets/5c68659e-43e6-4ef4-ab97-2c639a5a9ed5)
 ![mpv_2024_07_17_12_42_45_399](https://github.com/user-attachments/assets/b39063b5-9a9b-4235-a94b-42d96eed9f6e)
-![mpv_2024_04_11_15_45_42_010](https://github.com/MK-JH/MK-JH_Mpv-Fluid-Motion-Frames/assets/89070221/b58a0715-a804-48bf-9e19-ea67c3590bc7)
-![mpv_2024_04_11_15_45_32_871](https://github.com/MK-JH/MK-JH_Mpv-Fluid-Motion-Frames/assets/89070221/6159cce5-b988-41ae-9b08-01337edc1662)
 
