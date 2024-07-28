@@ -7,7 +7,7 @@ HI
 
  Welcome to the MK-JH_Mpv Fluid Motion Frames project
 
-عضویت در کانال اصلی فریم جنریشن:
+عضویت در کانال تلگرام:
 https://t.me/FSR3FG
 
 ارتباط با من:
