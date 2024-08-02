@@ -55,7 +55,7 @@ Pictures of the program environment:
 
 تصاویری از محیط برنامه:
 
-![mpv_2024_06_22_14_26_07_762](https://github.com/MK-JH/MK-JH_Mpv-Fluid-Motion-Frames/assets/89070221/dca83095-7e47-4bf2-93e3-a0ffe407a4b5)
+![mpv_2024_08_02_13_49_28_116](https://github.com/user-attachments/assets/5d489070-db43-43b5-b584-a872f12ae4e2)
 ![mpv_2024_07_17_12_44_14_775](https://github.com/user-attachments/assets/f5d91ec5-5eba-4307-9d9f-932a3db8c9b6)
 ![mpv_2024_07_17_12_43_49_408](https://github.com/user-attachments/assets/764becd9-d8d8-41f6-a606-d2ea42a1595b)
 ![mpv_2024_07_17_12_43_37_951](https://github.com/user-attachments/assets/11ade360-a556-4ac8-9994-4e632a228af5)
