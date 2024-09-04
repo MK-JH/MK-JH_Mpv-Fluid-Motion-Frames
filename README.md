@@ -7,7 +7,6 @@ HI
 
  Welcome to the MK-JH_Mpv Fluid Motion Frames project
 
-عضویت در کانال تلگرام
 Description:
 =
 
