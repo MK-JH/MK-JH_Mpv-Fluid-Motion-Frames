@@ -3,6 +3,11 @@
 
  به پروژه MK-JH_Mpv Fluid Motion Frames خوش آمدید
 
+کانال تلگرام پروژه:
+https://t.me/mkjh_apps
+ارتباط با من:
+https://t.me/PersianPatchDeveloper
+
 HI
 
  Welcome to the MK-JH_Mpv Fluid Motion Frames project
