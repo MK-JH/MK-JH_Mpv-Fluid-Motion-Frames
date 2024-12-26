@@ -8,6 +8,11 @@
 https://t.me/mkjh_apps
 
 
+حمایت مالی از پروژه های من:
+
+https://daramet.com/MK_JH
+
+
 ارتباط با من:
 
 https://t.me/PersianPatchDeveloper
