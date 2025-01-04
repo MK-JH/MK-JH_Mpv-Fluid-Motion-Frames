@@ -15,7 +15,7 @@ https://daramet.com/MK_JH
 
 ارتباط با من:
 
-https://t.me/PersianPatchDeveloper
+https://t.me/mkjhs_bot
 
 HI
 
