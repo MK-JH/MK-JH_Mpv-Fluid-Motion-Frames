@@ -1,18 +1,13 @@
 # MK-JH_Mpv Fluid Motion Frames
-درود
-
- به پروژه MK-JH_Mpv Fluid Motion Frames خوش آمدید
-
-
-حمایت مالی از پروژه های من:
-
-https://daramet.com/MK_JH
-
-
 
 HI
 
  Welcome to the MK-JH_Mpv Fluid Motion Frames project
+
+contact me:
+
+https://t.me/PersianPatchDeveloper
+
 
 Description:
 =
@@ -25,42 +20,17 @@ Also, by using 2 powerful technologies AMD FSR and AMD CAS and some different sh
 
 Requires medium to high system
 
-How to install the program and use it:
-=
+![unknown_2025 01 26-02 38_1](https://github.com/user-attachments/assets/a4563669-9a19-47e5-a379-8ff1535b3dd3)
 
-The necessary program training is available in the program training menu
+![unknown_2025 01 26-02 38_2](https://github.com/user-attachments/assets/110993f1-4a62-41a1-9ec1-9e48095969c4)
 
-توضیحات:
-=
+![unknown_2025 01 26-02 38_3](https://github.com/user-attachments/assets/e383143b-ec03-4272-a3dc-82cf31f70480)
 
-این پروژه جهت اجرایی فایل های تصویری با فریم ریت بالا به صورت کاملا نرم و روان با کمک فریم جنریشن در ویندوز طراحی شده و یک تجربه کاملا متفاوت رو هنگام تماشای فیلم براتون به ارمغان میاره
+![unknown_2025 01 26-02 38_4](https://github.com/user-attachments/assets/f545a35b-85f1-4630-b1c7-0e9bcfa6c9d0)
 
-با استفاده از این مدیا پلیر قدرتمند میتونید تمام فایلهای تصویری خودتون رو با بالاترین فریم ریت ممکن(بر اساس رفرش ریت مانیتور) تجربه کنید
+![unknown_2025 01 26-02 38_5](https://github.com/user-attachments/assets/30bb29e4-1d66-48b4-986a-d359862f34b4)
 
-همچنین با استفاده از 2 فناوری قدرتمند AMD FSR و AMD CAS و برخی شیدرهای مختلف استفاده شده در این برنامه میتونید بهترین خروجی تصویر رو حتی برای رزولیشن های پایین بدست بیارید و از دیدن فیلم لذت ببرید
+![unknown_2025 01 26-02 38](https://github.com/user-attachments/assets/b5387478-e85c-46d4-b609-7afb38123855)
 
-نیازمند سیستم متوسط رو به بالا
-
-آموزش نصب برنامه و استفاده از آن:
-=
-
-آموزش های لازم برنامه در منوی آموزش های برنامه موچوده
-
-
-
-Pictures of the program environment:
-
-تصاویری از محیط برنامه:
-
-![mpv_2024_08_02_13_49_28_116](https://github.com/user-attachments/assets/5d489070-db43-43b5-b584-a872f12ae4e2)
-![mpv_2024_07_17_12_44_14_775](https://github.com/user-attachments/assets/f5d91ec5-5eba-4307-9d9f-932a3db8c9b6)
-![mpv_2024_07_17_12_43_49_408](https://github.com/user-attachments/assets/764becd9-d8d8-41f6-a606-d2ea42a1595b)
-![mpv_2024_07_17_12_43_37_951](https://github.com/user-attachments/assets/11ade360-a556-4ac8-9994-4e632a228af5)
-![mpv_2024_07_17_12_43_25_108](https://github.com/user-attachments/assets/461f5406-b2ba-4536-a487-d3753c06d4a7)
-![mpv_2024_07_17_12_43_15_440](https://github.com/user-attachments/assets/4bef0d44-099e-4896-8f36-00aec456acc8)
-![mpv_2024_07_17_12_43_08_413](https://github.com/user-attachments/assets/ebcd6f20-ca22-41da-900f-5d37c5b6aabc)
-![mpv_2024_07_17_12_45_52_617](https://github.com/user-attachments/assets/a00c2542-14be-4f35-810b-64d70f1970f3)
-![mpv_2024_07_17_12_45_50_963](https://github.com/user-attachments/assets/91d16ec7-4173-47d1-8d3f-ad6d704adbd2)
-![mpv_2024_07_17_12_42_56_898](https://github.com/user-attachments/assets/5c68659e-43e6-4ef4-ab97-2c639a5a9ed5)
-![mpv_2024_07_17_12_42_45_399](https://github.com/user-attachments/assets/b39063b5-9a9b-4235-a94b-42d96eed9f6e)
-
+![2](https://github.com/user-attachments/assets/f75abcd4-fa83-44e2-8cb2-1dd471b16e7d)
+![1](https://github.com/user-attachments/assets/0a41a014-f208-4ef0-a8d0-302686d18dde)
