@@ -49,5 +49,3 @@ AMD FSR و AMD CAS
 
 ![unknown_2025 01 26-02 38](https://github.com/user-attachments/assets/b5387478-e85c-46d4-b609-7afb38123855)
 
-![2](https://github.com/user-attachments/assets/f75abcd4-fa83-44e2-8cb2-1dd471b16e7d)
-![1](https://github.com/user-attachments/assets/0a41a014-f208-4ef0-a8d0-302686d18dde)
